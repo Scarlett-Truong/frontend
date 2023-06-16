@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Deploy to Netlify
 
-1. In local machine run `yarn build`
+1. In local machine: upload `Scarlett.pdf` in /public and run `yarn build`
 2. Login Netlify with Github account
 3. Upload this `build` folder under https://app.netlify.com/sites/thao/deploys
 
